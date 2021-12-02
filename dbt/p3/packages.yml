@@ -1,3 +1,2 @@
 packages:
-  - git: 'https://github.com/akerone/dbt-deps-poc.git'
-    subdirectory: "dbt/p2"
+  - local: '../p2'
